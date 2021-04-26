@@ -3,7 +3,7 @@
 # a large (160MB, as of April 26, 2021) DataFrame.
 #
 # The program then anable the user to plot (and print) statistics for any country/region.
-# This project was an exercize in the Data Scientist course in John Bryce academy (Tel Aviv, Israel), on Nov-2019 to Jan-2021.
+# This project was an exercise in the Data Scientist course in John Bryce academy (Tel Aviv, Israel), on Nov-2019 to Jan-2021.
 # 
 # The program include three files: oveds_mail, oveds_acc.py, and oveds_func.py.
 #
